@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../apue.h"
 #include <errno.h>      /* 错误码定义 */
 #include <stdarg.h>     /* 可变参数支持 */
 #include <syslog.h>     /* 系统日志支持 */
